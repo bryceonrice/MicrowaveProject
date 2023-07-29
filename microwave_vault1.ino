@@ -1,3 +1,4 @@
+// Declaring analog pin names correlating to letter 1 - 4 in our word and setting value
 int pin_one = A0;
 int pin_two = A1;
 int pin_three = A2;
